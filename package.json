@@ -13,7 +13,7 @@
     "@mui/icons-material": "^5.10.6",
     "@mui/material": "^5.10.6",
     "@reduxjs/toolkit": "^1.9.0",
-    "@testing-library/jest-dom": "^5.16.1",
+    "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^12.1.2",
     "@testing-library/user-event": "^13.5.0",
     "@types/jest": "^27.4.0",
@@ -76,6 +76,6 @@
     "release-it": "^15.5.0",
     "release-it-update-manifest-plugin": "^1.0.0",
     "sign-addon": "^3.11.0",
-    "web-ext": "^7.2.0"
+    "web-ext": "^10.8.0"
   }
 }
